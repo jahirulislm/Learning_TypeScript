@@ -1,0 +1,1 @@
+Annotations are used to specify the data type of a variable parameter , funtion return value, and other types of values. Annotations help developers catch errors EARLY IN dEVELOPMENT by allowing them to sepcify what types of values can be assigned to a giern variable or passed as an argument to a function.
